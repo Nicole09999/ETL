@@ -45,3 +45,7 @@ python script_name.py
 5. Finally, it logs the completion of the ETL job.
 
 The script provides a structured approach to handle data transformation tasks, facilitating reproducibility, and ensuring traceability through logging.
+
+
+end result:
+<img width="399" alt="image" src="https://github.com/Nicole09999/ETL/assets/106644205/dee54950-6fc3-4a47-b027-e85955c40317">
